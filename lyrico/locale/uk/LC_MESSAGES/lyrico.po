@@ -1,0 +1,326 @@
+# Ukrainian translations for Lyrico.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the Lyrico project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Lyrico VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-10-29 18:52+0200\n"
+"PO-Revision-Date: 2026-10-29 17:07+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uk\n"
+"Language-Team: Ukrainian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || "
+"n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "&About Lyrico"
+msgstr "&Про Lyrico"
+
+msgid "&Bigger text\tCtrl+="
+msgstr "&Більший текст\tCtrl+="
+
+msgid "&Check for updates"
+msgstr "&Перевірити оновлення"
+
+msgid "&File"
+msgstr "&Файл"
+
+msgid "&Help"
+msgstr "&Довідка"
+
+msgid "&Language"
+msgstr "&Мова"
+
+msgid "&Lyrics:"
+msgstr "Текст (Alt+L):"
+
+msgid "&Music"
+msgstr "&Музика"
+
+msgid "&Next song\tAlt+Right"
+msgstr "&Наступна пісня\tAlt+Right"
+
+msgid "&Options"
+msgstr "&Параметри"
+
+msgid "&Results:"
+msgstr "Результати (Alt+R):"
+
+msgid "&Search:"
+msgstr "Пошук (Alt+S):"
+
+msgid "&Smaller text\tCtrl+-"
+msgstr "&Менший текст\tCtrl+-"
+
+msgid "&View"
+msgstr "&Вигляд"
+
+msgid "About Lyrico"
+msgstr "Про Lyrico"
+
+msgid "Artists"
+msgstr "Виконавці"
+
+msgid "Can't reach GitHub. Check the internet connection."
+msgstr "Не вдається з'єднатися з GitHub. Перевірте підключення до інтернету."
+
+msgid "Can't reach the lyrics server. Check the internet connection."
+msgstr "Не вдається з'єднатися із сервером текстів. Перевірте підключення до інтернету."
+
+msgid "Checking for updates..."
+msgstr "Перевіряю оновлення..."
+
+msgid "Checking what's playing..."
+msgstr "Перевіряю, що грає..."
+
+#, python-brace-format
+msgid "Copied {text}."
+msgstr "Скопійовано: {text}."
+
+msgid "Downloading update..."
+msgstr "Завантажую оновлення..."
+
+msgid "E&xit"
+msgstr "&Вихід"
+
+msgid "Find"
+msgstr "Знайти"
+
+msgid "Find a song first, then open it in Spotify."
+msgstr "Спочатку знайдіть пісню, потім відкрийте її в Spotify."
+
+msgid "Find in Spotify (Ctrl+S)"
+msgstr "Знайти в Spotify (Ctrl+S)"
+
+#, python-brace-format
+msgid "GitHub answered with error {code}. Try again later."
+msgstr "GitHub відповів помилкою {code}. Спробуйте пізніше."
+
+msgid "Instrumental, no lyrics."
+msgstr "Інструментал, без слів."
+
+#, python-brace-format
+msgid "Language changed to {name}."
+msgstr "Мову змінено: {name}."
+
+#, python-brace-format
+msgid "Looking for songs with lyrics by {artist}..."
+msgstr "Шукаю пісні з текстами виконавця {artist}..."
+
+msgid "Lyrico can't control the player on this computer."
+msgstr "Lyrico не може керувати плеєром на цьому комп'ютері."
+
+msgid "Lyrico can't read what's playing on this computer."
+msgstr "Lyrico не може дізнатися, що грає на цьому комп'ютері."
+
+#, python-brace-format
+msgid ""
+"Lyrico can't replace its own file in {folder}. Move Lyrico.exe to a folder you can write to, such"
+" as Documents."
+msgstr ""
+"Lyrico не може замінити власний файл у теці {folder}. Перемістіть Lyrico.exe до теки, у яку можна"
+" записувати, наприклад до Документів."
+
+#, python-brace-format
+msgid "Lyrico {new} is available. Use Help, Check for updates to install it."
+msgstr "Доступна версія Lyrico {new}. Щоб установити, виберіть Довідка, Перевірити оновлення."
+
+#, python-brace-format
+msgid ""
+"Lyrico {new} is available. You have {current}.\n"
+"\n"
+"Download and install it now? Lyrico will restart."
+msgstr ""
+"Доступна версія Lyrico {new}. У вас {current}.\n"
+"\n"
+"Завантажити й установити зараз? Lyrico перезапуститься."
+
+#, python-brace-format
+msgid ""
+"Lyrico {version}\n"
+"\n"
+"Find song lyrics fast.\n"
+"Lyrics come from LRCLIB and lyrics.ovh, artists and their songs from iTunes."
+msgstr ""
+"Lyrico {version}\n"
+"\n"
+"Швидкий пошук текстів пісень.\n"
+"Тексти беруться з LRCLIB і lyrics.ovh, виконавці та їхні пісні з iTunes."
+
+msgid "Lyrics for what's &playing\tCtrl+P"
+msgstr "Текст пісні, що &грає\tCtrl+P"
+
+msgid "Lyrics from LRCLIB."
+msgstr "Текст з LRCLIB."
+
+msgid "Lyrics from Spotify."
+msgstr "Текст зі Spotify."
+
+#, python-brace-format
+msgid "Lyrics from Spotify: {song}."
+msgstr "Текст зі Spotify: {song}."
+
+#, python-brace-format
+msgid "Lyrics text size {size}."
+msgstr "Розмір тексту {size}."
+
+#, python-brace-format
+msgid "No artists found for {query}."
+msgstr "Виконавців за запитом {query} не знайдено."
+
+#, python-brace-format
+msgid "No lyrics found for {query}."
+msgstr "Текст для {query} не знайдено."
+
+msgid "No player to control right now."
+msgstr "Зараз немає плеєра, яким можна керувати."
+
+#, python-brace-format
+msgid "No songs with lyrics found for {artist}."
+msgstr "Пісень із текстами для {artist} не знайдено."
+
+msgid "No updates"
+msgstr "Оновлень немає"
+
+msgid "Nothing is playing right now."
+msgstr "Зараз нічого не грає."
+
+#, python-brace-format
+msgid "Now playing: {song}."
+msgstr "Зараз грає: {song}."
+
+#, python-brace-format
+msgid "Opening Spotify search for {query}."
+msgstr "Відкриваю пошук {query} у Spotify."
+
+msgid "P&revious song\tAlt+Left"
+msgstr "&Попередня пісня\tAlt+Left"
+
+msgid "Play or p&ause\tAlt+Down"
+msgstr "&Відтворення або пауза\tAlt+Down"
+
+#, python-brace-format
+msgid "Press Enter to see songs by {artist}."
+msgstr "Натисніть Enter, щоб побачити пісні виконавця {artist}."
+
+msgid "Search &by:"
+msgstr "Шукати за (Alt+B):"
+
+#, python-brace-format
+msgid "Searching for {query}..."
+msgstr "Шукаю {query}..."
+
+msgid "Searching..."
+msgstr "Шукаю..."
+
+msgid "Song, artist or both"
+msgstr "Пісня, виконавець або обидва"
+
+msgid "Songs"
+msgstr "Пісні"
+
+msgid "Spotify"
+msgstr "Spotify"
+
+msgid "Spotify lyrics arrived."
+msgstr "Надійшов текст зі Spotify."
+
+msgid "Spotify sync (Ctrl+Shift+P)"
+msgstr "Синхронізація зі Spotify (Ctrl+Shift+P)"
+
+msgid "Spotify sync is off."
+msgstr "Синхронізацію зі Spotify вимкнено."
+
+msgid "Spotify sync is on. Lyrics follow the song playing in Spotify."
+msgstr "Синхронізацію зі Spotify увімкнено. Текст змінюватиметься разом із піснею в Spotify."
+
+msgid "Spotify sync off."
+msgstr "Синхронізацію зі Spotify вимкнено."
+
+msgid "Spotify sync on."
+msgstr "Синхронізацію зі Spotify увімкнено."
+
+msgid "Spotify sync: waiting for Spotify to play a song."
+msgstr "Синхронізація зі Spotify: чекаю, доки Spotify заграє пісню."
+
+msgid "The download is damaged (checksum mismatch)."
+msgstr "Завантажений файл пошкоджений (контрольна сума не збігається)."
+
+msgid "The lyrics server sent a bad response. Try again in a moment."
+msgstr "Сервер текстів надіслав хибну відповідь. Спробуйте ще раз за мить."
+
+msgid "This release has no Lyrico.exe."
+msgstr "У цьому випуску немає Lyrico.exe."
+
+msgid "This release has no checksum, so it can't be checked safely."
+msgstr "У цьому випуску немає контрольної суми, тож його не можна безпечно перевірити."
+
+msgid "Type a song and press Enter."
+msgstr "Введіть пісню й натисніть Enter."
+
+msgid "Update"
+msgstr "Оновлення"
+
+msgid "Update available"
+msgstr "Є оновлення"
+
+#, python-brace-format
+msgid "Update check failed: {error}"
+msgstr "Не вдалося перевірити оновлення: {error}"
+
+#, python-brace-format
+msgid "Update failed: {error}"
+msgstr "Не вдалося оновити: {error}"
+
+msgid "Updates work only in Lyrico.exe, not when running from source."
+msgstr "Оновлення працюють лише в Lyrico.exe, а не під час запуску з вихідного коду."
+
+#, python-brace-format
+msgid "You have the latest version, {current}."
+msgstr "У вас найновіша версія, {current}."
+
+msgid "lyrics from Spotify"
+msgstr "текст зі Spotify"
+
+#, python-brace-format
+msgid "{artist}: {found} songs with lyrics, checked {checked} of {total}."
+msgstr "{artist}: пісень із текстами {found}, перевірено {checked} з {total}."
+
+#, python-brace-format
+msgid "{count} artist."
+msgid_plural "{count} artists."
+msgstr[0] "{count} виконавець."
+msgstr[1] "{count} виконавці."
+msgstr[2] "{count} виконавців."
+
+#, python-brace-format
+msgid "{count} result."
+msgid_plural "{count} results."
+msgstr[0] "{count} результат."
+msgstr[1] "{count} результати."
+msgstr[2] "{count} результатів."
+
+#, python-brace-format
+msgid "{count} song could not be checked because LRCLIB is busy."
+msgid_plural "{count} songs could not be checked because LRCLIB is busy."
+msgstr[0] "{count} пісню не вдалося перевірити, бо LRCLIB перевантажений."
+msgstr[1] "{count} пісні не вдалося перевірити, бо LRCLIB перевантажений."
+msgstr[2] "{count} пісень не вдалося перевірити, бо LRCLIB перевантажений."
+
+#, python-brace-format
+msgid "{count} song with lyrics by {artist}."
+msgid_plural "{count} songs with lyrics by {artist}."
+msgstr[0] "{count} пісня з текстом виконавця {artist}."
+msgstr[1] "{count} пісні з текстами виконавця {artist}."
+msgstr[2] "{count} пісень із текстами виконавця {artist}."
+
+#, python-brace-format
+msgid "{host} is busy right now (error {code}). Try again in a moment."
+msgstr "{host} зараз перевантажений (помилка {code}). Спробуйте ще раз за мить."
+

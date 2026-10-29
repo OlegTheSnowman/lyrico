@@ -1,0 +1,3 @@
+#!/bin/sh
+# Runs the tests; when a version tag is pushed, publishes the GitHub release from the local build.
+exec python scripts/pre_push.py "$@"
